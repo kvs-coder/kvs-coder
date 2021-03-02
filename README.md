@@ -5,4 +5,4 @@
 
 ### Github Stats
 
-[![VictorKachalov's Github Stats](https://github-readme-stats.vercel.app/api?username=VictorKachalov&count_private=true&theme=default&show_icons=true)](https://github.com/VictorKachalov)
+[![VictorKachalov's Github Stats](https://github-readme-stats.vercel.app/api?username=VictorKachalov&count_private=true&theme=default&show_icons=true)](https://github.com/VictorKachalov/github-readme-stats)
