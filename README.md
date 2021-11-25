@@ -7,11 +7,3 @@ I'm a mobile developer at [Thalia GmbH](https://www.thalia.de/) in Berlin, Germa
 - 💬 Ask me about [Swift](https://swift.org/) and [Kotlin](https://kotlinlang.org/) or [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/victorkachalov)
-
-### Github Stats
-
-[![VictorKachalov's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorKachalov&theme=dracula)](https://github.com/VictorKachalov/github-readme-stats)
-
-### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKachalov&theme=dracula)](https://github.com/VictorKachalov/github-readme-stats)
