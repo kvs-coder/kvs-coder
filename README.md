@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer at [Sauce Labs](https://sumup.com/](https://saucelabs.com/) in Berlin, Germany 🇩🇪
+I'm a software developer at [Sauce Labs](https://saucelabs.com/) in Berlin, Germany 🇩🇪
 
 - 🔭 I’m currently working on how to improve the test Automation on Sauce
 - ☕ I’m currently learning how to play the guitar 🎸
